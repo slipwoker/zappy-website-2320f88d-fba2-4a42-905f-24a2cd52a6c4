@@ -1,0 +1,66 @@
+# טיולי ג'יפים קסם הטבע — Generative Engine Optimization Map
+
+> טיולי ג'יפים קסם הטבע, חברה עם ניסיון של 21 שנה בהובלת מטיילים, משפחות וקבוצות לחוויה של אקשן /אקסטר... מפנקים אתכם בטיולי ג'יפים ברמת הגולן והכינרת. אישור משרד התחבורה וביטוח מקיף.
+
+---
+
+## Pages
+
+### דף הבית
+https://-2320f88d.zappy5.app
+גלו טיולי ג'יפים ברמת הגולן עם 21 שנות ניסיון. חוויות אקסטרים מרגשות למשפחות וקבוצות. הזמינו עכשיו!
+
+### המסלולים שלנו
+https://-2320f88d.zappy5.app/tours
+גלו את מגוון מסלולי טיולי הג'יפים בצפון - מנחל כנף ועד ספארי לילה. מסלולים מותאמים לכל משפחה וקבוצה.
+
+### אודות
+https://-2320f88d.zappy5.app/about
+הכירו את קסם הטבע - 21 שנות ניסיון בהובלת טיולי ג'יפים ברמת הגולן. הסיפור שלנו, הערכים והמחויבות למצוינות.
+
+### צור קשר
+https://-2320f88d.zappy5.app/contact
+צרו קשר עם קסם הטבע להזמנת טיול ג'יפים ברמת הגולן. זמינים לכל שאלה ופרט. התקשרו או שלחו הודעה עכשיו!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-2320f88d.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-2320f88d.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-2320f88d.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About טיולי ג'יפים קסם הטבע
+טיולי ג'יפים קסם הטבע, חברה עם ניסיון של 21 שנה בהובלת מטיילים, משפחות וקבוצות לחוויה של אקשן /אקסטר... מפנקים אתכם בטיולי ג'יפים ברמת הגולן והכינרת. אישור משרד התחבורה וביטוח מקיף.
+
+## Services/Products
+- טיולי ג'יפים נחל כנף ושמורת הבטיחה
+- טיול ג'יפים בגולן, מסלול מעיינות
+- טיולי גיפים ספארי לילה בגולן
+- מסלול טיול ג'יפים בגולן בחורף
+- טיול ג'יפים רוגם אל הירי
+- טיול ג'יפים גשר הסורי
+
+## Target Audience
+- משפחות הרפתקניות
+- חובבי טבע
+
+## Industry
+General
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-2320f88d.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-2320f88d.zappy5.app/robots.txt
